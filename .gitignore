@@ -8,12 +8,14 @@ test
 tags
 *.dylib*
 build/
+install/
 cJSON_test
 cJSON_test_utils
 libcjson.so.*
 libcjson_utils.so.*
 *.orig
 .vscode
+.vslick
 .idea
 cmake-build-debug
 *.lst
